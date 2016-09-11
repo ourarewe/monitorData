@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/grade_trend/all_host.py=utf-8
+encoding//src/grade_trend/grade_by_time.py=utf-8
+encoding//src/grade_trend/plot.py=utf-8
+encoding//src/poi_forecast/corr.py=utf-8
+encoding//src/poi_forecast/match_day.py=utf-8
+encoding//src/poi_forecast/next_x_step.py=utf-8
+encoding//src/poi_forecast/orther_regression.py=utf-8
+encoding//src/poi_forecast/poi.py=utf-8
+encoding//src/poi_forecast/region_popul_static.py=utf-8
+encoding//src/poi_forecast/test_KNN.py=utf-8
+encoding//src/poi_forecast/test_plot_predict.py=utf-8
+encoding//src/poi_forecast/test_pred.py=utf-8
+encoding//src/poi_forecast/test_rush.py=utf-8
+encoding//src/test/test.py=utf-8
+encoding/<project>=UTF-8
